@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ai-school-violence-counseling/static/css/main.0732a3f5.css",
+    "main.js": "/ai-school-violence-counseling/static/js/main.8662dbfc.js",
+    "index.html": "/ai-school-violence-counseling/index.html",
+    "main.0732a3f5.css.map": "/ai-school-violence-counseling/static/css/main.0732a3f5.css.map",
+    "main.8662dbfc.js.map": "/ai-school-violence-counseling/static/js/main.8662dbfc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0732a3f5.css",
+    "static/js/main.8662dbfc.js"
+  ]
+}
